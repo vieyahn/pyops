@@ -1,1 +1,5 @@
-pygit
+
+devops
+python
+data analysis
+
