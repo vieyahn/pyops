@@ -1,6 +1,6 @@
 import json
 from urllib import urlopen
-from time import ctime
+from time
 
 Init = urlopen("https://data.btcchina.com/data/historydata ")
 datas = Init.read()
