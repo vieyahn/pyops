@@ -39,7 +39,7 @@ def node1():
 
 @app.route('/user/<name>')
 def node2(name):
-    return render_template('user.html',name=name)
+    return render_template('today.html',name=name)
 
 #return redirect('htt://www.baidu.com')
 
