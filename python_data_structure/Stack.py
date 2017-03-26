@@ -15,8 +15,3 @@ class Stack:
         return self.items.pop()
 
 
-s = Stack()
-
-if isinstance(self,s):
-    print(True)
-
